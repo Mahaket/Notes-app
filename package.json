@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mahadevji Patil",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
